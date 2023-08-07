@@ -1,4 +1,4 @@
-import {BsFillMoonStarsFill} from 'react-icons/bs'
+import {BsFillMoonStarsFill,BsLinkedin} from 'react-icons/bs'
 import {AiFillGithub} from 'react-icons/ai'
 import estebanImg from './img/estebanImg.png'
 function App() {
@@ -6,7 +6,7 @@ function App() {
       <main className="bg-white px-10">
         <section className="min-h-screen">
             <nav className="py-10 mb-12 flex justify-between">
-                <h1 className="text-xl">developed</h1>
+                <h1 className="text-xl">Bienvenido</h1>
                 <ul className="flex items-center">
                     <li>
                         <BsFillMoonStarsFill />
@@ -26,8 +26,7 @@ function App() {
                 </div>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600">
                 <AiFillGithub />
-                <AiFillGithub />
-                <AiFillGithub />
+                <BsLinkedin />
             </div>
             <div className="relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-20">
                 <img className="mx-auto w-60 " src={estebanImg} alt="stiven" />
