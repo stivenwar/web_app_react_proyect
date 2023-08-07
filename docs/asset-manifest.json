@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.16d098c4.css",
+    "main.js": "./static/js/main.ebf3555e.js",
+    "static/media/estebanImg.png": "./static/media/estebanImg.b2aec14cdd1f780b513f.png",
+    "index.html": "./index.html",
+    "main.16d098c4.css.map": "./static/css/main.16d098c4.css.map",
+    "main.ebf3555e.js.map": "./static/js/main.ebf3555e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16d098c4.css",
+    "static/js/main.ebf3555e.js"
+  ]
+}
