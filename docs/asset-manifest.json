@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.16d098c4.css",
-    "main.js": "/static/js/main.26f78807.js",
-    "static/media/estebanImg.png": "/static/media/estebanImg.b2aec14cdd1f780b513f.png",
-    "index.html": "/index.html",
-    "main.16d098c4.css.map": "/static/css/main.16d098c4.css.map",
-    "main.26f78807.js.map": "/static/js/main.26f78807.js.map"
+    "main.css": "static/css/main.16d098c4.css",
+    "main.js": "static/js/main.26f78807.js",
+    "static/media/estebanImg.png": "static/media/estebanImg.b2aec14cdd1f780b513f.png",
+    "index.html": "index.html",
+    "main.16d098c4.css.map": "static/css/main.16d098c4.css.map",
+    "main.26f78807.js.map": "static/js/main.26f78807.js.map"
   },
   "entrypoints": [
     "static/css/main.16d098c4.css",
