@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.16d098c4.css",
-    "main.js": "./static/js/main.fd2bfdbd.js",
+    "main.css": "./static/css/main.c10bda82.css",
+    "main.js": "./static/js/main.749aa8a9.js",
     "static/media/estebanImg.png": "./static/media/estebanImg.b2aec14cdd1f780b513f.png",
     "index.html": "./index.html",
-    "main.16d098c4.css.map": "./static/css/main.16d098c4.css.map",
-    "main.fd2bfdbd.js.map": "./static/js/main.fd2bfdbd.js.map"
+    "main.c10bda82.css.map": "./static/css/main.c10bda82.css.map",
+    "main.749aa8a9.js.map": "./static/js/main.749aa8a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.16d098c4.css",
-    "static/js/main.fd2bfdbd.js"
+    "static/css/main.c10bda82.css",
+    "static/js/main.749aa8a9.js"
   ]
 }
