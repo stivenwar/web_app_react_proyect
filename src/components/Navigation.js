@@ -13,7 +13,7 @@ function Navigation(args){
                     }} />
                 </li>
                 <li>
-                    <a className="bg-gradient-to-r bg-blue-500  text-white px-4 py-2 rounded-md ml-8"  href="/#">Resume</a>
+                    <a className="bg-gradient-to-r bg-blue-500  text-white px-4 py-2 rounded-md ml-8" href="https://stivenwar.github.io/esteban_guerra_webApp/#/home">Mas Proyectos</a>
                 </li>
             </ul>
         </nav>
